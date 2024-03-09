@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1709936213 source:c:\users\hp\desktop\tp langauge c++\exercice7\rictangle\main.cpp
+	<iostream>
+	"point.h"
+	"rictangle.h"
+
+1709936497 source:c:\users\hp\desktop\tp langauge c++\exercice7\rictangle\point.cpp
+	"point.h"
+	<iostream>
+
+1709934819 c:\users\hp\desktop\tp langauge c++\exercice7\rictangle\point.h
+	<iostream>
+
+1709985999 source:c:\users\hp\desktop\tp langauge c++\exercice7\rictangle\rictangle.cpp
+	<iostream>
+	"point.h"
+	"rictangle.h"
+	<cmath>
+
+1709936077 c:\users\hp\desktop\tp langauge c++\exercice7\rictangle\rictangle.h
+	<iostream>
+

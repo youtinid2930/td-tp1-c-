@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1709928362 source:c:\users\hp\desktop\tp langauge c++\exercice5\cercle.cpp
+	"cercle.h"
+	<iostream>
+	<cmath>
+
+1709928288 c:\users\hp\desktop\tp langauge c++\exercice5\cercle.h
+	<iostream>
+
+1709928491 source:c:\users\hp\desktop\tp langauge c++\exercice5\main.cpp
+	<iostream>
+	"cercle.h"
+

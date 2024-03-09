@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1709931999 source:c:\users\hp\desktop\tp langauge c++\exercice6\point3d\main.cpp
+	<iostream>
+	"point3d.h"
+
+1709932071 c:\users\hp\desktop\tp langauge c++\exercice6\point3d\point3d.h
+	<iostream>
+
+1709932047 source:c:\users\hp\desktop\tp langauge c++\exercice6\point3d\point3d.cpp
+	<iostream>
+	"point3d.h"
+
